@@ -5,4 +5,5 @@ The main purpose of the study is to extract these data from the OECD website and
 
 In this study, the collected data has been prepared for clustering analysis and the given OECD countries have been clustered on the basis of the newly created Women Happiness Index(WHI). Python 3.6 was utilised on the technical side of the project with the libraries and modules of Pandas, Geopandas, Scipy and Plotly.
 
+A social scientist creates concepts. It is expected that the newly created concept of Women Happiness Index(WHI) will be a focal point of many other academic and scientific studies.
 
