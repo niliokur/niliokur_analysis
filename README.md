@@ -1,4 +1,4 @@
-# niliokur_analysis
+# Women Happiness Index(WHI) Analysis in OECD Countries by Python 
 In this study, Better Life Index in OECD Countries has been analyzed. 'Better Life Index(BTI) has been created to compare well-being across countries, based on 11 topics the OECD has identified as essential, in the areas of material living conditions and quality of life (http://www.oecdbetterlifeindex.org/).'
 
 The main purpose of the study is to extract these data from the OECD website and create a new indicator named as Women Happiness Index(WHI). Eight indicators were chosen to form this new index such as labour market insecurity, employment rate, feeling safe walking alone at night, quality of support network, educational attainment, life expectancy, life satisfaction and time devoted to leisure and personal care.
