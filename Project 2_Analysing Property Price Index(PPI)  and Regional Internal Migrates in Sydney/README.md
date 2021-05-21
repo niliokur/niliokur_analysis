@@ -8,6 +8,6 @@ This study targets to figure out whether rising property prices generate an impa
 
 Of course, emigration is an important decision and cannot be explained by a single variable. However, this study is based on the perspective that residents who cannot afford to live a settled life by buying a house can decide on emigration more easily.
 
-In the first phase of the study, based on data for the last 10 years collected from the ABS(Australian Bureau of Statistics) website, there is a similar pattern was found between property price increases and immigration figures from Sydney. The analysis was performed by utilising Python 3. Pandas and Matlotlib have been used for analysis and visualization.
+In the first phase of the study, based on data for the last 10 years collected from the ABS(Australian Bureau of Statistics) website, there is a similar pattern was found between property price index and emigration figures from Sydney. The analysis was performed by utilising Python 3. Pandas and Matlotlib have been used for analysis and visualization.
 
-Apparently, this is an immature study yet. Further analysis will be carried out to support the main perspective of the analysis.
+Apparently, this is an immature study yet. Further analysis will be carried out to support the main perspective of the analysis, in frame of the collected relevant data in the future.
