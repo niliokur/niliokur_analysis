@@ -10,4 +10,4 @@ Of course, emigration is an important decision and cannot be explained by a sing
 
 In the first phase of the study, based on data for the last 10 years collected from the ABS(Australian Bureau of Statistics) website, there is a similar pattern was found between property price index and emigration figures from Sydney. The analysis was performed by utilising Python 3. Pandas and Matlotlib have been used for analysis and visualization.
 
-Apparently, this is an immature study yet. Further analysis will be carried out to support the main perspective of the analysis, in frame of the collected relevant data in the future.
+Apparently, this is an immature study yet. Further analysis will be carried out to support the main perspective of the analysis, as the new relevant data collected in the future.
