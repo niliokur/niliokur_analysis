@@ -2,24 +2,24 @@
 # PM Analysis Report README
 
 ## Overview
-The **PM Analysis Report** provides an insightful look into the current availability of Project Managers (PMs) and juxtaposes it against the requirements of ongoing projects. By systematically noting PM employment start and end dates, the report offers a clear picture of the current PM availability. Furthermore, it estimates PM requirements by evaluating forecasted PM hours against standard working hours.
+The **PM Analysis Report** assesses the available Project Managers (PMs) against current project needs. It uses PM start/end dates to determine availability and compares forecasted PM hours to standard hours for requirements.
 
 ## Objectives
-1. Ascertain the current number of available PMs.
-2. Estimate the PMs needed for ongoing projects.
-3. Highlight any disparities between the available and needed PMs, facilitating effective resource management.
+1. Count current available PMs.
+2. Estimate PMs needed for projects.
+3. Identify gaps between available and required PMs.
 
-## Key Metrics & Visuals
-- **Employment Start and End Dates**: Graphics that elucidate PM tenure and availability.
-- **Forecasted PM Hours**: Visual depictions that aggregate anticipated PM working hours for projects.
-- **Standard Hours**: Reference hours that a PM is expected to work, which assist in forming projections.
-- **Needed PMs**: This metric, determined by the proportion of forecasted to standard PM hours, along with its associated visuals, conveys the anticipated PM requirements.
+## Metrics & Visuals
+- **Start and End Dates**: Charts show PM availability.
+- **Forecasted PM Hours**: Graphs of expected PM work hours.
+- **Standard Hours**: Typical PM work hours used for projections.
+- **Needed PMs**: Calculated from forecasted and standard hours.
 
-## Insights & Interpretation
-The report serves as a guiding light for stakeholders, indicating the sufficiency of PMs for ongoing tasks. Any deviations brought to light might necessitate subtle shifts in project timelines, task reallocations, or reconsiderations in hiring.
+## Insights
+The report shows whether we have enough PMs for current tasks. Differences might mean adjusting project dates, reallocating tasks, or hiring.
 
-## Usage & Importance
-This report is invaluable for both HR and Project Management teams, acting as a safeguard against unforeseen project hold-ups owing to PM scarcities. Periodic reviews can circumvent looming resource shortages, ensuring the uninterrupted flow of projects.
+## Usage
+Essential for HR and Project Management, this report helps avoid project delays from PM shortages. Checking it regularly ensures smooth project flow.
 
 ## Recommendations
-It's prudent to consult this report regularly, notably at the commencement of projects. Such foresight ensures that resources are aptly matched with project needs, sidestepping any unforeseen challenges.
+Review this report often, especially when starting projects, to ensure we have the PM resources we need.
