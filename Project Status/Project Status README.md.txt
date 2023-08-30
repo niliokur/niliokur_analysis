@@ -2,7 +2,7 @@
 
 ## Description
 
-This Power BI report provides insights into the status of various projects in the organization, including their progress, budget utilization, and team performance. The main target of the report is to use tooltips as an active enstrument to display comments and status colouring for each section in a compact form.
+This Power BI report provides insights into the status of various projects in the organization, including their progress, budget utilization, and team performance. The main target of the report is to use tooltips as an active instrument to display comments and status coloring for each section in a compact form.
 
 ## Data Sources
 
